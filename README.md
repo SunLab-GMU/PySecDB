@@ -53,12 +53,5 @@ To download the PySecDB dataset, you must agree with the succeeding Disclaimer &
 ## Team
 
 The PySecDB dataset is built by [Sun Security Laboratory](https://sunlab-gmu.github.io/) (SunLab) at [George Mason University](https://www2.gmu.edu/), Fairfax, VA. 
-
-<div align="left" display="flex">    
-    <img src="./img/sunlab_logo_full.png" height = "125" alt="sunlab" align="center" />
-    &emsp;&emsp;&emsp;&emsp;
-    <img src="./img/csis.png" height = "135" alt="csis" align="center" />
-</div>
-
 ---
 Last Updated Date: July, 2023
